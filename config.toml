@@ -1,3 +1,31 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Milan Weibel"
+theme = "PaperMod"
+
+
+[params.profileMode]
+enabled = true
+title = "<Title>"
+subtitle = "**Hi!** I'm Milan, a CS student at [UC Chile](https://www.uc.cl/en)"
+imageUrl = "https://avatars.githubusercontent.com/u/98287114?v=4|"
+imageTitle = "Milan Weibel"
+imageWidth = 200
+imageHeight = 200
+
+#  [[params.profileMode.buttons]]
+#  name = "Writings"
+#  url = "/writings"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/weibac"
+
+[[params.socialIcons]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/milan-weibel-bacovic-352027247/?locale=en_US"
+
+[[params.socialIcons]]
+name = "Twitter"
+url = "https://twitter.com/mweibac"
+
