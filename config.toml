@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://github.com/weibac/personal-website"
 languageCode = "en-us"
 title = "Milan Weibel"
 theme = "PaperMod"
